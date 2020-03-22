@@ -1,0 +1,5 @@
+switch(i+j){
+case 1:a=b+c;break;
+case 2:d=e+f;break;
+default:g=h+i;
+}
